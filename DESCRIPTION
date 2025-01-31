@@ -1,0 +1,12 @@
+Package: myProject 
+Type: Package
+Title: Minimal R Pipeline Project
+Version: 0.1.0
+Authors@R: 
+    person("Dylan", "DA SILVA MOREIRA", email = "dylan.dasilva.003@student.uni.lu", role = c("aut", "cre"))
+Description: A simple R pipeline , tested using testthat.
+Encoding: UTF-8
+LazyData: true
+Imports:
+    testthat
+RoxygenNote: 7.2.3
